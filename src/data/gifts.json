@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "title": "Smart Watch",
+    "description": "A sleek smartwatch with fitness tracking and notification features.",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "occasion": ["Birthday", "Anniversary", "Graduation"],
+    "tags": ["Tech", "Practical", "Trendy"]
+  },
+  {
+    "id": 2,
+    "title": "Handcrafted Wooden Jewelry Box",
+    "description": "Beautiful hand-carved wooden box for storing precious jewelry.",
+    "image": "https://images.unsplash.com/photo-1584378687113-8739c327634c?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "occasion": ["Anniversary", "Birthday", "Wedding"],
+    "tags": ["Handmade", "Personalized", "Unique"]
+  },
+  {
+    "id": 3,
+    "title": "Eco-Friendly Water Bottle",
+    "description": "Insulated stainless steel water bottle that keeps drinks cold for 24 hours.",
+    "image": "https://th.bing.com/th/id/OIP.BJzjFBTdHjDzEpqNdmAcZgHaE8?r=0&rs=1&pid=ImgDetMain",
+    "occasion": ["Birthday", "Housewarming", "Graduation"],
+    "tags": ["Eco-Friendly", "Practical", "Budget-Friendly"]
+  },
+  {
+    "id": 4,
+    "title": "Wireless Noise-Cancelling Headphones",
+    "description": "Premium headphones with active noise cancellation and 30-hour battery life.",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "occasion": ["Birthday", "Graduation", "Christmas"],
+    "tags": ["Tech", "Luxury", "Trendy"]
+  },
+  {
+    "id": 5,
+    "title": "Personalized Star Map",
+    "description": "Custom star map showing the night sky from a specific date and location.",
+    "image": "https://images.unsplash.com/photo-1518640467707-6811f4a6ab73?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "occasion": ["Anniversary", "Wedding", "Valentine's Day"],
+    "tags": ["Personalized", "Unique", "Romantic"]
+  },
+  {
+    "id": 6,
+    "title": "Indoor Plant Kit",
+    "description": "Set of 3 easy-to-care-for indoor plants with decorative pots.",
+    "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "occasion": ["Housewarming", "Birthday", "Christmas"],
+    "tags": ["Eco-Friendly", "Cute", "Budget-Friendly"]
+  },
+  {
+    "id": 7,
+    "title": "Gourmet Chocolate Box",
+    "description": "Assortment of handcrafted chocolates from around the world.",
+    "image": "https://images.unsplash.com/photo-1549007994-cb92caebd54b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "occasion": ["Valentine's Day", "Birthday", "Anniversary"],
+    "tags": ["Handmade", "Luxury", "Budget-Friendly"]
+  },
+  {
+    "id": 8,
+    "title": "Portable Bluetooth Speaker",
+    "description": "Waterproof speaker with 360° sound and 12-hour battery life.",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "occasion": ["Birthday", "Graduation", "Housewarming"],
+    "tags": ["Tech", "Practical", "Budget-Friendly"]
+  },
+  {
+    "id": 9,
+    "title": "Customized Baby Memory Book",
+    "description": "Beautiful keepsake book to document baby's first year milestones.",
+    "image": "https://www.loveandwild.co/cdn/shop/articles/the_best_baby_memory_books.jpg?v=1697565805&width=1400",
+    "occasion": ["Baby Shower"],
+    "tags": ["Personalized", "Cute", "Handmade"]
+  },
+  {
+    "id": 10,
+    "title": "Luxury Scented Candle Set",
+    "description": "Set of 3 premium scented candles in elegant glass containers.",
+    "image": "https://images.pexels.com/photos/7947724/pexels-photo-7947724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "occasion": ["Housewarming", "Birthday", "Christmas"],
+    "tags": ["Luxury", "Trendy", "Practical"]
+  },
+  {
+    "id": 11,
+    "title": "Digital Drawing Tablet",
+    "description": "Professional-grade drawing tablet for digital artists and designers.",
+    "image": "https://cdn.conceptartempire.com/images/05/5288/01-featured-drawing-tablet.jpg",
+    "occasion": ["Birthday", "Graduation", "Christmas"],
+    "tags": ["Tech", "Luxury", "Unique"]
+  },
+  {
+    "id": 12,
+    "title": "Handmade Ceramic Mug Set",
+    "description": "Set of 4 unique handcrafted ceramic mugs, each with a different design.",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "occasion": ["Housewarming", "Wedding", "Christmas"],
+    "tags": ["Handmade", "Eco-Friendly", "Practical"]
+  },
+  {
+    "id": 13,
+    "title": "Virtual Reality Headset",
+    "description": "Immersive VR headset for gaming and interactive experiences.",
+    "image": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "occasion": ["Birthday", "Christmas", "Graduation"],
+    "tags": ["Tech", "Luxury", "Trendy"]
+  },
+  {
+    "id": 14,
+    "title": "Personalized Recipe Cutting Board",
+    "description": "Wooden cutting board engraved with a special family recipe.",
+    "image": "https://th.bing.com/th/id/OIP.8nrVYLof6W08EjOimg75OAHaHa?r=0&rs=1&pid=ImgDetMain",
+    "occasion": ["Anniversary", "Housewarming", "Wedding"],
+    "tags": ["Personalized", "Handmade", "Practical"]
+  },
+  {
+    "id": 15,
+    "title": "Astronomy Telescope Kit",
+    "description": "Beginner-friendly telescope with tripod and astronomy guide.",
+    "image": "https://th.bing.com/th/id/OIP.jCWepNYAscSXatTRDAiUZgHaJQ?r=0&rs=1&pid=ImgDetMain",
+    "occasion": ["Birthday", "Graduation", "Christmas"],
+    "tags": ["Unique", "Tech", "Educational"]
+  },
+  {
+    "id": 16,
+    "title": "Artisanal Coffee Subscription",
+    "description": "Monthly delivery of premium coffee beans from around the world.",
+    "image": "https://images.unsplash.com/photo-1511537190424-bbbab87ac5eb?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "occasion": ["Birthday", "Anniversary", "Housewarming"],
+    "tags": ["Luxury", "Practical", "Subscription"]
+  },
+  {
+    "id": 17,
+    "title": "Customized Photo Album",
+    "description": "Leather-bound photo album with personalized cover and high-quality pages.",
+    "image": "https://i.pinimg.com/736x/36/12/4b/36124b15db6e798fb902e465d7ab2827.jpg",
+    "occasion": ["Anniversary", "Wedding", "Valentine's Day"],
+    "tags": ["Personalized", "Romantic", "Handmade"]
+  },
+  {
+    "id": 18,
+    "title": "Smart Home Starter Kit",
+    "description": "Set of smart plugs, lights, and a voice assistant to begin home automation.",
+    "image": "https://i.pinimg.com/736x/54/2a/b5/542ab592ebea300d053650ae803f8a1a.jpg",
+    "occasion": ["Housewarming", "Wedding", "Christmas"],
+    "tags": ["Tech", "Practical", "Trendy"]
+  },
+  {
+    "id": 19,
+    "title": "Vintage Vinyl Record Player",
+    "description": "Modern record player with vintage aesthetics and Bluetooth connectivity.",
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "occasion": ["Birthday", "Anniversary", "Housewarming"],
+    "tags": ["Unique", "Tech", "Trendy"]
+  },
+  {
+    "id": 20,
+    "title": "Personalized Constellation Necklace",
+    "description": "Delicate gold necklace featuring a zodiac constellation.",
+    "image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "occasion": ["Birthday", "Anniversary", "Valentine's Day"],
+    "tags": ["Personalized", "Luxury", "Romantic"]
+  },
+  {
+    "id": 21,
+    "title": "DIY Terrarium Kit",
+    "description": "Complete kit to create a beautiful miniature garden in glass.",
+    "image": "https://i.pinimg.com/736x/0a/69/8e/0a698e4d7dbe95d4c651957a51b980d4.jpg",
+    "occasion": ["Birthday", "Housewarming", "Christmas"],
+    "tags": ["Eco-Friendly", "Handmade", "Budget-Friendly"]
+  },
+  {
+    "id": 22,
+    "title": "Gourmet Hot Sauce Collection",
+    "description": "Set of artisanal hot sauces with varying heat levels and flavors.",
+    "image": "https://i.pinimg.com/736x/f1/27/7e/f1277effcca6bd5c7ece05653d066cfb.jpg",
+    "occasion": ["Birthday", "Housewarming", "Christmas"],
+    "tags": ["Unique", "Budget-Friendly", "Practical"]
+  },
+  {
+    "id": 23,
+    "title": "Personalized Family Portrait",
+    "description": "Custom digital illustration of family members in a stylized art form.",
+    "image": "https://i.pinimg.com/736x/cf/65/ce/cf65cee1f47f6be8c66f6be2630b2550.jpg",
+    "occasion": ["Anniversary", "Christmas", "Birthday"],
+    "tags": ["Personalized", "Unique", "Handmade"]
+  },
+  {
+    "id": 24,
+    "title": "Wireless Charging Station",
+    "description": "Elegant wooden charging dock for multiple devices simultaneously.",
+    "image": "https://i.pinimg.com/736x/7e/e1/46/7ee1466931a1da51e65fcdf2714d4988.jpg",
+    "occasion": ["Birthday", "Graduation", "Christmas"],
+    "tags": ["Tech", "Practical", "Trendy"]
+  }
+]

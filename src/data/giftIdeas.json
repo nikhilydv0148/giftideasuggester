@@ -1,0 +1,126 @@
+{
+  "gifts": [
+    {
+      "id": 1,
+      "title": "Smart Watch",
+      "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHNtYXJ0JTIwd2F0Y2h8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "A stylish smartwatch with fitness tracking and notification features.",
+      "tags": ["Tech", "Luxury", "Practical"],
+      "occasion": ["Birthday", "Anniversary", "Graduation"]
+    },
+    {
+      "id": 2,
+      "title": "Handmade Scarf",
+      "image": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2NhcmZ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "A beautiful handcrafted scarf made with premium materials.",
+      "tags": ["Handmade", "Cute", "Budget-Friendly"],
+      "occasion": ["Birthday", "Christmas", "Valentine's Day"]
+    },
+    {
+      "id": 3,
+      "title": "Wireless Earbuds",
+      "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGVhcmJ1ZHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "High-quality wireless earbuds with noise cancellation.",
+      "tags": ["Tech", "Practical", "Luxury"],
+      "occasion": ["Birthday", "Graduation", "Christmas"]
+    },
+    {
+      "id": 4,
+      "title": "Personalized Photo Album",
+      "image": "https://images.unsplash.com/photo-1595439291859-90f9a12a6a9a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvdG8lMjBhbGJ1bXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "A custom photo album filled with cherished memories.",
+      "tags": ["Handmade", "Personalized", "Sentimental", "Budget-Friendly"],
+      "occasion": ["Anniversary", "Birthday", "Valentine's Day"]
+    },
+    {
+      "id": 5,
+      "title": "Gourmet Chocolate Box",
+      "image": "https://images.unsplash.com/photo-1549007994-cb92caebd54b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNob2NvbGF0ZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "Assorted premium chocolates in an elegant gift box.",
+      "tags": ["Edible", "Cute", "Budget-Friendly"],
+      "occasion": ["Valentine's Day", "Birthday", "Christmas"]
+    },
+    {
+      "id": 6,
+      "title": "Gaming Console",
+      "image": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2FtaW5nJTIwY29uc29sZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "The latest gaming console with cutting-edge graphics and games.",
+      "tags": ["Tech", "Luxury", "Entertainment"],
+      "occasion": ["Birthday", "Graduation", "Christmas"]
+    },
+    {
+      "id": 7,
+      "title": "Handcrafted Jewelry Box",
+      "image": "https://images.unsplash.com/photo-1584811644165-33078f55ac9a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8amV3ZWxyeSUyMGJveHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "A beautifully crafted wooden jewelry box with intricate designs.",
+      "tags": ["Handmade", "Personalized", "Luxury"],
+      "occasion": ["Anniversary", "Birthday", "Mother's Day"]
+    },
+    {
+      "id": 8,
+      "title": "Portable Bluetooth Speaker",
+      "image": "https://images.unsplash.com/photo-1589003077984-894e133dabab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Ymx1ZXRvb3RoJTIwc3BlYWtlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "A compact, high-quality Bluetooth speaker with impressive sound.",
+      "tags": ["Tech", "Practical", "Budget-Friendly"],
+      "occasion": ["Birthday", "Graduation", "Housewarming"]
+    },
+    {
+      "id": 9,
+      "title": "Customized Star Map",
+      "image": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3RhciUyMG1hcHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "A personalized map of the stars from a special date and location.",
+      "tags": ["Personalized", "Sentimental", "Handmade"],
+      "occasion": ["Anniversary", "Wedding", "Valentine's Day"]
+    },
+    {
+      "id": 10,
+      "title": "Indoor Plant Kit",
+      "image": "https://images.unsplash.com/photo-1545241047-6083a3684587?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aW5kb29yJTIwcGxhbnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "A set of easy-to-care-for indoor plants with decorative pots.",
+      "tags": ["Eco-Friendly", "Practical", "Budget-Friendly"],
+      "occasion": ["Housewarming", "Birthday", "Mother's Day"]
+    },
+    {
+      "id": 11,
+      "title": "Fitness Tracker",
+      "image": "https://images.unsplash.com/photo-1576243345690-4e4b79b63288?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Zml0bmVzcyUyMHRyYWNrZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "A sleek fitness tracker to monitor health and activity levels.",
+      "tags": ["Tech", "Practical", "Health"],
+      "occasion": ["Birthday", "New Year", "Graduation"]
+    },
+    {
+      "id": 12,
+      "title": "Gourmet Coffee Set",
+      "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29mZmVlJTIwc2V0fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "description": "Premium coffee beans with brewing equipment for coffee enthusiasts.",
+      "tags": ["Edible", "Practical", "Luxury"],
+      "occasion": ["Housewarming", "Birthday", "Christmas"]
+    }
+  ],
+  "occasions": [
+    "Birthday",
+    "Anniversary",
+    "Graduation",
+    "Christmas",
+    "Valentine's Day",
+    "Mother's Day",
+    "Father's Day",
+    "Wedding",
+    "Housewarming",
+    "New Year"
+  ],
+  "tags": [
+    "Tech",
+    "Handmade",
+    "Luxury",
+    "Budget-Friendly",
+    "Practical",
+    "Cute",
+    "Personalized",
+    "Sentimental",
+    "Edible",
+    "Entertainment",
+    "Eco-Friendly",
+    "Health"
+  ]
+}
